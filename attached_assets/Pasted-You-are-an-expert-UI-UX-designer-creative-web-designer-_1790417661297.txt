@@ -1,0 +1,830 @@
+You are an expert **UI/UX designer, creative web designer, and senior full-stack frontend developer**. I want you to design and build a **premium, modern, visually impressive, production-ready website** for a furniture business.
+
+Do NOT give me only a plan or explanation. **Actually build the complete website and all required files/code.** Make the design decisions yourself wherever reasonable.
+
+# BUSINESS INFORMATION
+
+**Business Name:** Delight Interior Furniture
+**Business Category:** Furniture & Interior Furniture
+**Contact Number:** +91 97242 18985
+**Location:**
+Shop No. 37, Opp. Bansi Nagar Metro Station,
+Hingna MIDC Road, Hingana Road,
+Nagpur – 440016, Maharashtra, India
+
+The website should make the business look **premium, trustworthy, established, modern, and design-focused**.
+
+---
+
+# PRIMARY OBJECTIVE
+
+Create a website that converts visitors into customers.
+
+The website should immediately communicate:
+
+* Premium furniture
+* Beautiful interior solutions
+* Quality craftsmanship
+* Modern designs
+* Variety of furniture
+* Local Nagpur presence
+* Easy contact through phone and WhatsApp
+* Easy visit to the physical store
+
+The overall feeling should be:
+
+**"Premium furniture showroom + modern interior design studio."**
+
+Avoid making it look like a generic furniture template.
+
+---
+
+# DESIGN DIRECTION
+
+Create a **high-end luxury furniture website** inspired by premium interior design studios and modern furniture brands.
+
+Use a sophisticated visual identity.
+
+## Color Palette
+
+Use a warm, elegant palette rather than generic blue/white.
+
+Suggested colors:
+
+* Deep Espresso / Dark Brown: #241A16
+* Warm Walnut: #6B4632
+* Cream / Ivory: #F6F1E8
+* Soft Beige: #D8C7B5
+* Muted Gold: #C7A46A
+* Charcoal: #171514
+
+You can slightly modify these colors if necessary to achieve a better visual result.
+
+The design should have excellent contrast and accessibility.
+
+Use dark sections and light sections strategically instead of making the entire website one color.
+
+---
+
+# TYPOGRAPHY
+
+Use premium fonts.
+
+Suggested combination:
+
+**Headings:** Playfair Display / Cormorant Garamond / DM Serif Display
+
+**Body:** Inter / Manrope / Poppins
+
+Use a strong typographic hierarchy.
+
+Large elegant headings should be used in the hero section.
+
+For example:
+
+"Furniture That Defines Your Space."
+
+or create an even better headline yourself.
+
+Use typography to create a luxury editorial feel.
+
+---
+
+# WEBSITE STYLE
+
+The website should feel:
+
+* Premium
+* Minimal
+* Elegant
+* Warm
+* Modern
+* Sophisticated
+* Spacious
+* Trustworthy
+* Conversion-focused
+
+Avoid:
+
+* Excessive gradients
+* Cheap-looking shadows
+* Excessive rounded cards
+* Generic Bootstrap appearance
+* Too many colors
+* Cluttered layouts
+* Overuse of animations
+* Stock-template appearance
+
+Use **large photography, whitespace, strong typography, subtle borders, elegant hover effects, and sophisticated transitions.**
+
+---
+
+# WEBSITE STRUCTURE
+
+Build the following sections/pages.
+
+## 1. NAVIGATION BAR
+
+Create a premium sticky navbar.
+
+Left:
+
+**Delight Interior Furniture**
+
+Center/right navigation:
+
+* Home
+* About
+* Furniture
+* Why Us
+* Contact
+
+Right-side CTA:
+
+**Visit Showroom**
+
+Also include a mobile hamburger menu.
+
+Navbar should:
+
+* Become slightly smaller when scrolling
+* Have a subtle background blur
+* Have smooth transitions
+* Remain highly readable
+
+---
+
+# 2. HERO SECTION
+
+This is the most important section.
+
+Create a full-width premium hero section with a beautiful furniture/interior image.
+
+Use a high-quality visual showing a sophisticated modern living room / premium furniture.
+
+If external image URLs are used, use reliable high-quality sources.
+
+Prefer **Unsplash images or another reliable image source** rather than low-quality placeholder images.
+
+Hero layout:
+
+Large headline:
+
+**"Furniture That Defines Your Space."**
+
+Supporting text:
+
+"Discover thoughtfully designed furniture that brings comfort, elegance and character to every corner of your home."
+
+Buttons:
+
+**Explore Furniture**
+
+**Visit Showroom**
+
+Also include a small trust/location element:
+
+📍 Nagpur, Maharashtra
+
+Create an elegant image overlay / gradient so text remains readable.
+
+Add subtle entrance animations.
+
+The hero should immediately look like a premium furniture brand.
+
+---
+
+# 3. FEATURED CATEGORIES
+
+Create a beautiful category section.
+
+Title:
+
+**"Designed for Every Space."**
+
+Categories could include:
+
+* Living Room
+* Bedroom
+* Dining
+* Sofa & Seating
+* Storage
+* Office Furniture
+* Custom Furniture
+* Interior Solutions
+
+Use large visual cards.
+
+Each card should have:
+
+* Image
+* Category name
+* Short description
+* Hover animation
+
+On hover:
+
+* Image zooms slightly
+* Overlay changes
+* Arrow appears
+* Text transitions smoothly
+
+Do NOT make these look like boring rectangular Bootstrap cards.
+
+---
+
+# 4. ABOUT SECTION
+
+Create an elegant split-screen section.
+
+Image on one side.
+
+Content on the other.
+
+Heading:
+
+**"Where Comfort Meets Design."**
+
+Explain that Delight Interior Furniture provides furniture designed to combine:
+
+* Style
+* Comfort
+* Quality
+* Functionality
+* Modern aesthetics
+
+Do not invent fake claims such as "20 years of experience" or "10,000 happy customers."
+
+Only use claims that are provided.
+
+Include CTA:
+
+**Discover Our Story →**
+
+---
+
+# 5. SHOWROOM / PRODUCT SHOWCASE
+
+Create a visually impressive furniture gallery.
+
+Use several high-quality furniture images.
+
+Display:
+
+* Sofas
+* Beds
+* Dining tables
+* Chairs
+* Wardrobes
+* TV units
+* Living room furniture
+* Interior setups
+
+Use an editorial-style grid rather than a simple product-card grid.
+
+Include subtle hover effects.
+
+Example:
+
+Image → hover → dark overlay → "Explore Collection →"
+
+If actual product names/prices are not provided, **DO NOT invent them**.
+
+Instead use category/collection names.
+
+---
+
+# 6. WHY CHOOSE US
+
+Create a premium section titled:
+
+**"Why Delight Interior Furniture?"**
+
+Use 4–6 benefits.
+
+Examples:
+
+### Thoughtful Design
+
+Furniture that complements modern living spaces.
+
+### Comfort First
+
+Designed around everyday comfort and usability.
+
+### Quality Focus
+
+A focus on materials, construction and finish.
+
+### Modern Aesthetics
+
+Contemporary designs that elevate interiors.
+
+### Personalized Choices
+
+Furniture options suited to different spaces and preferences.
+
+### Local Showroom
+
+Visit us directly in Nagpur and experience the furniture in person.
+
+Do not make unverifiable claims about certifications, guarantees, years of experience, awards, etc.
+
+Use elegant icons.
+
+Animate each item as it enters the viewport.
+
+---
+
+# 7. INTERIOR INSPIRATION SECTION
+
+Create a visually rich section:
+
+**"Imagine Your Space Differently."**
+
+Show a beautiful interior scene.
+
+Use a large image with a sophisticated text overlay.
+
+Add a small quote:
+
+"Beautiful spaces begin with thoughtful furniture."
+
+Add CTA:
+
+**Visit Our Showroom**
+
+---
+
+# 8. CUSTOMER EXPERIENCE / PROCESS
+
+Create a simple 3 or 4-step process:
+
+### 01 — Explore
+
+Discover furniture styles and collections.
+
+### 02 — Visit
+
+Experience the furniture at our showroom.
+
+### 03 — Choose
+
+Find the pieces that suit your space.
+
+### 04 — Transform
+
+Bring your interior vision to life.
+
+Use a horizontal timeline on desktop and vertical timeline on mobile.
+
+Animate the steps sequentially.
+
+---
+
+# 9. LOCATION SECTION
+
+Create a dedicated showroom/location section.
+
+Heading:
+
+**"Visit Our Showroom"**
+
+Display:
+
+**Delight Interior Furniture**
+
+Shop No. 37, Opp. Bansi Nagar Metro Station,
+Hingna MIDC Road, Hingana Road,
+Nagpur – 440016, Maharashtra, India
+
+Phone:
+
+**+91 97242 18985**
+
+Create:
+
+**Call Now**
+
+button.
+
+Also create:
+
+**Get Directions**
+
+button.
+
+Embed a Google Maps iframe if possible.
+
+If an exact Google Maps embed URL cannot be reliably determined, create a "Get Directions" link that opens Google Maps with the address as the search destination.
+
+---
+
+# 10. CONTACT / LEAD GENERATION SECTION
+
+Create a strong CTA section near the bottom.
+
+Headline:
+
+**"Let's Create a Space You'll Love."**
+
+Supporting text:
+
+"Have a furniture requirement or want to explore our showroom? Get in touch with us."
+
+Buttons:
+
+**Call +91 97242 18985**
+
+**WhatsApp Us**
+
+**Visit Showroom**
+
+The WhatsApp button should open:
+
+https://wa.me/919724218985
+
+Make this section visually striking.
+
+---
+
+# 11. FOOTER
+
+Create a premium footer.
+
+Include:
+
+### Delight Interior Furniture
+
+Furniture & Interior Solutions
+
+Navigation:
+
+Home
+About
+Furniture
+Why Us
+Contact
+
+Contact:
+
++91 97242 18985
+
+Address:
+
+Shop No. 37, Opp. Bansi Nagar Metro Station, Hingna MIDC Road, Hingana Road, Nagpur – 440016, Maharashtra
+
+Include:
+
+© 2026 Delight Interior Furniture. All Rights Reserved.
+
+---
+
+# ANIMATIONS & INTERACTIONS
+
+This is extremely important.
+
+The website should feel **alive and premium**, but not overloaded with animations.
+
+Implement:
+
+### Page Load
+
+* Smooth hero fade-in
+* Headline reveal
+* Image scale-in
+* CTA stagger animation
+
+### Scroll
+
+Use subtle:
+
+* Fade-up
+* Slide-up
+* Scale
+* Parallax
+* Staggered reveals
+
+### Images
+
+On hover:
+
+* Gentle zoom
+* Smooth transition
+* Overlay animation
+
+### Buttons
+
+Use:
+
+* Smooth hover transitions
+* Slight movement
+* Elegant background transition
+* Arrow movement
+
+### Navbar
+
+On scroll:
+
+* Reduce height slightly
+* Add backdrop blur
+* Add subtle shadow/border
+
+### Cursor
+
+If appropriate, implement a subtle custom cursor interaction for desktop.
+
+Do not use an annoying oversized cursor.
+
+### Page transitions
+
+Use smooth transitions where appropriate.
+
+Animations should generally be around **300–800ms** and use natural easing.
+
+Respect `prefers-reduced-motion`.
+
+---
+
+# RESPONSIVE DESIGN
+
+The website MUST be fully responsive.
+
+Test/design for:
+
+* Desktop
+* Laptop
+* Tablet
+* Mobile
+* Small mobile screens
+
+Mobile should NOT simply be a compressed desktop layout.
+
+Create intentional mobile layouts.
+
+Pay particular attention to:
+
+* Navigation
+* Hero text
+* Buttons
+* Image proportions
+* Gallery
+* Typography
+* Spacing
+* Contact buttons
+
+The website should look premium on a 375px-wide phone.
+
+---
+
+# MOBILE CONTACT BAR
+
+On mobile, consider adding a fixed bottom contact bar containing:
+
+📞 Call
+💬 WhatsApp
+📍 Directions
+
+This should be subtle and premium rather than intrusive.
+
+---
+
+# TECHNICAL REQUIREMENTS
+
+Use a modern production-quality stack.
+
+Preferred:
+
+* React
+* Vite
+* Tailwind CSS
+* JavaScript or TypeScript
+* Lucide React icons
+* Framer Motion where appropriate
+
+If you believe another modern stack is more appropriate, you may use it.
+
+Keep the code:
+
+* Clean
+* Modular
+* Maintainable
+* Component-based
+* Reusable
+* Well organized
+
+Create reusable components for:
+
+* Navbar
+* Hero
+* Category cards
+* Gallery
+* Feature cards
+* CTA
+* Footer
+* Buttons
+
+---
+
+# IMAGE HANDLING
+
+Use high-quality furniture/interior photography.
+
+Prioritize:
+
+* Modern living rooms
+* Luxury sofas
+* Wooden furniture
+* Bedrooms
+* Dining spaces
+* Contemporary interiors
+
+Images should feel consistent with the color palette.
+
+Use `object-fit: cover` where appropriate.
+
+Optimize image loading.
+
+Use lazy loading for images below the fold.
+
+Do not use random unrelated images.
+
+---
+
+# SEO
+
+Implement proper SEO.
+
+Page title:
+
+**Delight Interior Furniture | Premium Furniture in Nagpur**
+
+Meta description:
+
+**Discover premium furniture and interior solutions at Delight Interior Furniture, Nagpur. Visit our showroom on Hingna MIDC Road.**
+
+Include appropriate:
+
+* H1
+* H2
+* H3
+* Meta tags
+* Open Graph metadata
+* Alt text
+* Semantic HTML
+
+Add LocalBusiness structured data / JSON-LD using only the verified business information provided above.
+
+---
+
+# PERFORMANCE
+
+Make the website fast.
+
+Optimize:
+
+* Images
+* JavaScript
+* Fonts
+* Animations
+* Component rendering
+
+Avoid unnecessary libraries.
+
+Do not sacrifice performance for visual effects.
+
+---
+
+# ACCESSIBILITY
+
+Follow accessibility best practices:
+
+* Proper semantic HTML
+* Keyboard navigation
+* Visible focus states
+* Sufficient color contrast
+* Alt text
+* ARIA labels where necessary
+* Reduced motion support
+* Proper button/link semantics
+
+---
+
+# CALL / WHATSAPP FUNCTIONALITY
+
+The phone number must be clickable:
+
+tel:+919724218985
+
+WhatsApp:
+
+https://wa.me/919724218985
+
+Use these consistently throughout the website.
+
+---
+
+# GOOGLE MAPS
+
+Use the showroom address:
+
+Shop No 37, Opp Bansi Nagar Metro Station, Hingna MIDC Road, Hingana Road, Nagpur-440016, Maharashtra, India
+
+Create a "Get Directions" button that opens Google Maps for this location.
+
+---
+
+# DESIGN DETAILS
+
+Pay special attention to:
+
+* 8px spacing system
+* Elegant whitespace
+* Consistent border radius
+* Subtle shadows
+* Image cropping
+* Typography hierarchy
+* Section spacing
+* Visual rhythm
+* Alignment
+* Button sizing
+* Responsive breakpoints
+
+Use a combination of:
+
+* Full-bleed images
+* Editorial grids
+* Split layouts
+* Asymmetrical sections
+* Large typography
+* Minimal cards
+
+The site should resemble a **premium interior design magazine**, not a generic ecommerce template.
+
+---
+
+# IMPORTANT BRANDING RULE
+
+Do not invent:
+
+* Customer reviews
+* Awards
+* Years of experience
+* Number of customers
+* Certifications
+* Product prices
+* Product specifications
+* Partnerships
+* Guarantees
+* Statistics
+
+unless they are explicitly provided.
+
+If something is missing, design the section without making false claims.
+
+---
+
+# FINAL QUALITY CHECK
+
+Before considering the website complete, inspect the entire website and fix:
+
+* Broken links
+* Console errors
+* Layout issues
+* Mobile responsiveness
+* Text overflow
+* Poor contrast
+* Missing images
+* Incorrect spacing
+* Animation glitches
+* Button functionality
+* Phone links
+* WhatsApp links
+* Google Maps link
+* SEO metadata
+
+Make sure there are **NO placeholder texts such as "Lorem ipsum", "Your Company", "Coming Soon", etc.**
+
+Use the actual business information everywhere.
+
+---
+
+# MOST IMPORTANT CREATIVE DIRECTION
+
+I don't want a basic website.
+
+I want you to make it look like a website that a **premium furniture showroom in Mumbai, Bangalore, Dubai or London** could use.
+
+Think:
+
+**Luxury furniture + modern architecture + editorial design + warm Indian aesthetic.**
+
+Use beautiful typography, cinematic imagery, sophisticated transitions, subtle animations, elegant hover effects, excellent spacing, and strong visual hierarchy.
+
+The first 5 seconds of the website should make a visitor think:
+
+**"This is a premium furniture brand."**
+
+Build the website completely and make it ready to run.
+
+After implementation, run/test it, identify any errors, and fix them before finishing.

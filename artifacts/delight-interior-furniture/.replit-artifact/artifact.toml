@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Delight Interior Furniture"
+description = "A premium, conversion-focused furniture showroom website for Delight Interior Furniture in Nagpur, featuring editorial interiors, showroom discovery, contact actions, and responsive experiences."
+version = "1.0.0"
+id = "artifacts/delight-interior-furniture"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 18803
+
+[services.development]
+run = "pnpm --filter @workspace/delight-interior-furniture run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/delight-interior-furniture", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/delight-interior-furniture/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "18803"
+BASE_PATH = "/"
